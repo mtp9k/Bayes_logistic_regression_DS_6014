@@ -1,6 +1,12 @@
 # Bayes_logistic_regression_DS_6014
 Bayes DS 6014 Final Project
 
+# GitHub Files 
+Bayes Final Presentation – This is a copy of our presentation 
+Bayes_Final_Project – This is our notebook with all the code 
+default of credit card clients – This is the dataset used for the project it is also available at archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+DS 6014 Bayes Final Report – This is a copy of our final report
+
 
 ## Project Description
 Our dataset contains information on default payments, demographic information, credit history, payment history, and bill statements of credit card clients in Taiwan. The goal of our project is to not just predict whether or not a customer defaults on their credit card payment but also to measure the uncertainty around such predictions by analyzing the posterior probability of default. The data set contains 30,000 distinct credit card clients. The response is a binary classification of whether or not the customer defaulted. The predictors include the amount of given credit, gender, education, marital status, age, six months of history of past payment, six months of past bill statements, and six months of monthly payment.
