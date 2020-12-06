@@ -25,12 +25,19 @@ This project is based heavily on pymc3. To learn more about pymc3, see https://d
 
 ## Required Packages
 python==3.8.5
+
 pymc3==3.9.3
+
 seaborn==0.11.0
+
 graphviz
+
 numpy
+
 pandas
+
 theano
+
 arviz
 
 
