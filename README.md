@@ -1,7 +1,7 @@
 # Bayes_logistic_regression_DS_6014
 Bayes DS 6014 Final Project
 
-# GitHub Files 
+## GitHub Files 
 Bayes Final Presentation – This is a copy of our presentation 
 
 Bayes_Final_Project – This is our notebook with all the code 
