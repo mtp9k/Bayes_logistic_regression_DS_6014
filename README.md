@@ -3,8 +3,11 @@ Bayes DS 6014 Final Project
 
 # GitHub Files 
 Bayes Final Presentation – This is a copy of our presentation 
+
 Bayes_Final_Project – This is our notebook with all the code 
+
 default of credit card clients – This is the dataset used for the project it is also available at archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+
 DS 6014 Bayes Final Report – This is a copy of our final report
 
 
