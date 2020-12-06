@@ -10,8 +10,11 @@ Since our response, default, is a binary outcome, logistic regression is an obvi
 
 ## Instructions to Reproduce Findings
 -Download .csv file and .ipynb
+
 -Install required packages
+
 -run cells in sequence
+
 This project is based heavily on pymc3. To learn more about pymc3, see https://docs.pymc.io/notebooks/getting_started.html. 
 
 ## Required Packages
